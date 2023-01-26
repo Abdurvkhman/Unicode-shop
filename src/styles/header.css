@@ -1,0 +1,31 @@
+.header-block {
+  background-color: #0000ff;
+}
+
+.header-wrapper {
+  padding: 18px 71px 19px 231px;
+}
+
+.header-second-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 1250px;
+  margin: 0 auto;
+}
+
+.header-title {
+  font-family: "Anton";
+  color: white;
+  font-weight: normal;
+  font-style: 50px;
+  text-transform: uppercase;
+}
+
+.title-link {
+  text-decoration: none;
+}
+
+.cart-icon {
+  cursor: pointer;
+}
